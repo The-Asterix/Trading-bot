@@ -1,6 +1,4 @@
-# QuantStorm 2026: Algorithmic Market-Making Bot
-
-This repository contains my algorithmic trading bot built for **QuantStorm 2026** (hosted by QATC IIT Delhi, FEC IIT Guwahati, and Quant Club IIT Bombay).
+# Algorithmic Market-Making Bot
 
 ## The Competition: Divided Oracle
 The competition simulates a low-latency, incomplete-information market. Bots must price a hidden asset `S` (the sum of 40 fair coins) and bid on asymmetric powers using a limited Tactical Energy (TE) budget over 5 rounds of negotiation.
